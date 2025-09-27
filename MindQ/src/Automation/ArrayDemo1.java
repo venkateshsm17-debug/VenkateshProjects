@@ -22,7 +22,7 @@ public class ArrayDemo1 {
 		for(int i=0;i<myCars.length-1;i++) {
 			System.out.println(myCars[i]);
 		}
-		System.out.println("forEach loop\n");
+		System.out.println("forEachsv loop\n");
 		//read one by one value by using forEach
 		for(String my:myCars)
 		{
