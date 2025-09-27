@@ -1,0 +1,21 @@
+<suite name="Cross browser testing">
+<test name="Chrome browser testing">
+<parameter name="testBrowser" value="CHROME"/>
+<classes>
+	<class name="com.Testng.CrossBrowserTesting"/>
+</classes>
+</test>
+
+<test name="FF browser testing">
+<parameter name="testBrowser" value="FF"/>
+<classes>
+	<class name="com.Testng.CrossBrowserTesting"/>
+</classes>
+</test>
+<test name="Edge browser testing">
+<parameter name="testBrowser" value="EDGE"/>
+<classes>
+	<class name="com.Testng.CrossBrowserTesting"/>
+</classes>
+</test>
+</suite>

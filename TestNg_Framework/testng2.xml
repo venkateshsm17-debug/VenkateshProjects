@@ -1,0 +1,16 @@
+<!-- Create TestNg xml file to execute some of the methods only-->
+
+<suite name="my Demo testNg suite">
+<test name="Sample tests">
+	<classes>
+		<class name="sampleone.Class01"/>
+			<methods>
+				<include name="methodOne"/>
+				<exclude name="methodTwo"/>
+			</methods>
+		<class name="sampleone.Class02"/>
+		<class name="sampletwo.Class03"/>
+	</classes>
+</test>
+
+</suite>

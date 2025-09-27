@@ -1,0 +1,13 @@
+
+
+<suite name="my Demo testNg suite">
+<test name="Sample tests">
+	<classes>
+		<class name="sampleone.Class01"/>
+		<class name="sampleone.Class02"/>
+		<class name="sampletwo.Class03"/>
+		<class name="sampletwo.Class04"/>
+	</classes>
+</test>
+
+</suite>
