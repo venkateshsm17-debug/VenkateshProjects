@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.438" tests="1" skipped="0" failures="1" errors="0" timestamp="2025-04-05T15:17:17.263130600Z">
+<testcase classname="Check login functionality" name="check login status" time="0.04">
+<failure type="io.cucumber.java.PendingException" message="TODO: implement me">
+<![CDATA[io.cucumber.java.PendingException: TODO: implement me
+	at StepsForHooks.HooksDemoSteps.user_is_on_login_page(HooksDemoSteps.java:11)
+	at ✽.user is on login page(file:///C:/Users/user/eclipse-workspace/MindQ/CucumberDemo/src/test/resources/HooksDemo/HooksDemo.feature:4)
+]]>
+</failure>
+<system-out><![CDATA[
+Given user is on login page.................................................pending
+When user enters valid username and password................................skipped
+And clicks on login button..................................................skipped
+Then user is navigated to the homepage......................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
