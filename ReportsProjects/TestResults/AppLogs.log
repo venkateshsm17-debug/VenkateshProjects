@@ -1,0 +1,20 @@
+05-08-2024 02:00:23  Log4jDemo.class setUp -Browser launched
+05-08-2024 02:00:30  Log4jDemo.class setUp -Application opened
+05-08-2024 02:02:39  Log4jDemo.class setUp -Browser launched
+05-08-2024 02:02:45  Log4jDemo.class setUp -Application opened
+05-08-2024 02:08:35  Log4jDemo.class setUp -Browser launched
+05-08-2024 02:08:42  Log4jDemo.class setUp -Application opened
+05-08-2024 02:24:25  Log4jDemo.class setUp -Browser launched
+05-08-2024 02:24:32  Log4jDemo.class setUp -Application opened
+05-08-2024 03:53:46  Log4jDemo.class setUp -Browser launched
+05-08-2024 03:53:54  Log4jDemo.class setUp -Application opened
+05-08-2024 07:43:42  DemoLog4j.class userLogin -Browser launched
+05-08-2024 07:43:42  DemoLog4j.class userLogin -it in not printed
+05-08-2024 07:43:42  DemoLog4j.class userLogin -printing warning messages
+05-08-2024 07:43:42  DemoLog4j.class userLogin -It is a fatal defect
+05-08-2024 09:08:22  DemoLog4j.class userLogin -Browser launched
+05-08-2024 09:08:22  DemoLog4j.class userLogin -it in not printed
+05-08-2024 09:08:22  DemoLog4j.class userLogin -printing warning messages
+05-08-2024 09:08:22  DemoLog4j.class userLogin -It is a fatal defect
+13-09-2024 08:49:21  Log4jDemo.class setUp -Browser launched
+13-09-2024 08:49:26  Log4jDemo.class setUp -Application opened
